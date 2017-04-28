@@ -1,0 +1,1005 @@
+,
+    "Breishis_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 1,
+        "endVerse": 5
+    },
+    "Breishis_sheini": {
+        "book": "breishis",
+        "startVerse": 6,
+        "chapter": 1,
+        "endVerse": 8
+    },
+    "Breishis_shlishi": {
+        "book": "breishis",
+        "startVerse": 7,
+        "chapter": 1,
+        "endVerse": 13
+    },
+    "Noach_rishon": {
+        "book": "breishis",
+        "startVerse": 9,
+        "chapter": 6,
+        "endVerse": 16
+    },
+    "Noach_sheini": {
+        "book": "breishis",
+        "startVerse": 17,
+        "chapter": 6,
+        "endVerse": 19
+    },
+    "Noach_shlishi": {
+        "book": "breishis",
+        "startVerse": 20,
+        "chapter": 6,
+        "endVerse": 22
+    },
+    "LechLecha_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 12,
+        "endVerse": 3
+    },
+    "LechLecha_sheini": {
+        "book": "breishis",
+        "startVerse": 4,
+        "chapter": 12,
+        "endVerse": 9
+    },
+    "LechLecha_shlishi": {
+        "book": "breishis",
+        "startVerse": 10,
+        "chapter": 12,
+        "endVerse": 13
+    },
+    "Vayera_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 18,
+        "endVerse": 5
+    },
+    "Vayera_sheini": {
+        "book": "breishis",
+        "startVerse": 6,
+        "chapter": 18,
+        "endVerse": 8
+    },
+    "Vayera_shlishi": {
+        "book": "breishis",
+        "startVerse": 9,
+        "chapter": 18,
+        "endVerse": 14
+    },
+    "ChayeiSara_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 23,
+        "endVerse": 7
+    },
+    "ChayeiSara_sheini": {
+        "book": "breishis",
+        "startVerse": 8,
+        "chapter": 23,
+        "endVerse": 12
+    },
+    "ChayeiSara_shlishi": {
+        "book": "breishis",
+        "startVerse": 13,
+        "chapter": 23,
+        "endVerse": 16
+    },
+    "Toldos_rishon": {
+        "book": "breishis",
+        "startVerse": 19,
+        "chapter": 25,
+        "endVerse": 22
+    },
+    "Toldos_sheini": {
+        "book": "breishis",
+        "startVerse": 23,
+        "chapter": 25,
+        "endVerse": 26
+    },
+    "Toldos_shlishi_one": {
+        "book": "breishis",
+        "chapter": 25,
+        "startVerse": 27
+    },
+    "Toldos_shlishi_two": {
+        "book": "breishis",
+        "endVerse": 5,
+        "chapter": 26
+    },
+    "Vayetzei_rishon": {
+        "book": "breishis",
+        "startVerse": 10,
+        "chapter": 28,
+        "endVerse": 12
+    },
+    "Vayetzei_sheini": {
+        "book": "breishis",
+        "startVerse": 13,
+        "chapter": 28,
+        "endVerse": 17
+    },
+    "Vayetzei_shlishi": {
+        "book": "breishis",
+        "startVerse": 18,
+        "chapter": 28,
+        "endVerse": 22
+    },
+    "Vayishlach_rishon": {
+        "book": "breishis",
+        "startVerse": 4,
+        "chapter": 32,
+        "endVerse": 6
+    },
+    "Vayishlach_sheini": {
+        "book": "breishis",
+        "startVerse": 7,
+        "chapter": 32,
+        "endVerse": 9
+    },
+    "Vayishlach_shlishi": {
+        "book": "breishis",
+        "startVerse": 10,
+        "chapter": 32,
+        "endVerse": 13
+    },
+    "Vayeshev_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 37,
+        "endVerse": 3
+    },
+    "Vayeshev_sheini": {
+        "book": "breishis",
+        "startVerse": 4,
+        "chapter": 37,
+        "endVerse": 7
+    },
+    "Vayeshev_shlishi": {
+        "book": "breishis",
+        "startVerse": 8,
+        "chapter": 37,
+        "endVerse": 11
+    },
+    "Mikeitz_rishon": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 41,
+        "endVerse": 4
+    },
+    "Mikeitz_sheini": {
+        "book": "breishis",
+        "startVerse": 5,
+        "chapter": 41,
+        "endVerse": 7
+    },
+    "Mikeitz_shlishi": {
+        "book": "breishis",
+        "startVerse": 8,
+        "chapter": 41,
+        "endVerse": 14
+    },
+    "Vayigash_rishon": {
+        "book": "breishis",
+        "startVerse": 18,
+        "chapter": 44,
+        "endVerse": 20
+    },
+    "Vayigash_sheini": {
+        "book": "breishis",
+        "startVerse": 21,
+        "chapter": 44,
+        "endVerse": 24
+    },
+    "Vayigash_shlishi": {
+        "book": "breishis",
+        "startVerse": 25,
+        "chapter": 44,
+        "endVerse": 30
+    },
+    "Vayechi_rishon": {
+        "book": "breishis",
+        "startVerse": 28,
+        "chapter": 47,
+        "endVerse": 31
+    },
+    "Vayechi_sheini": {
+        "book": "breishis",
+        "startVerse": 1,
+        "chapter": 48,
+        "endVerse": 3
+    },
+    "Vayechi_shlishi": {
+        "book": "breishis",
+        "startVerse": 4,
+        "chapter": 48,
+        "endVerse": 9
+    },
+    "Shmos_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 1,
+        "endVerse": 7
+    },
+    "Shmos_sheini": {
+        "book": "shmos",
+        "startVerse": 8,
+        "chapter": 1,
+        "endVerse": 12
+    },
+    "Shmos_shlishi": {
+        "book": "shmos",
+        "startVerse": 13,
+        "chapter": 1,
+        "endVerse": 17
+    },
+    "Vaera_rishon": {
+        "book": "shmos",
+        "startVerse": 2,
+        "chapter": 6,
+        "endVerse": 5
+    },
+    "Vaera_sheini": {
+        "book": "shmos",
+        "startVerse": 6,
+        "chapter": 6,
+        "endVerse": 9
+    },
+    "Vaera_shlishi": {
+        "book": "shmos",
+        "startVerse": 10,
+        "chapter": 6,
+        "endVerse": 13
+    },
+    "Bo_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 10,
+        "endVerse": 3
+    },
+    "Bo_sheini": {
+        "book": "shmos",
+        "startVerse": 4,
+        "chapter": 10,
+        "endVerse": 6
+    },
+    "Bo_shlishi": {
+        "book": "shmos",
+        "startVerse": 7,
+        "chapter": 10,
+        "endVerse": 11
+    },
+    "Beshalach_rishon": {
+        "book": "shmos",
+        "startVerse": 17,
+        "chapter": 13,
+        "endVerse": 22
+    },
+    "Beshalach_sheini": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 14,
+        "endVerse": 4
+    },
+    "Beshalach_shlishi": {
+        "book": "shmos",
+        "startVerse": 5,
+        "chapter": 14,
+        "endVerse": 8
+    },
+    "Yisro_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 18,
+        "endVerse": 4
+    },
+    "Yisro_sheini": {
+        "book": "shmos",
+        "startVerse": 5,
+        "chapter": 18,
+        "endVerse": 8
+    },
+    "Yisro_shlishi": {
+        "book": "shmos",
+        "startVerse": 9,
+        "chapter": 18,
+        "endVerse": 12
+    },
+    "Mishpatim_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 21,
+        "endVerse": 6
+    },
+    "Mishpatim_sheini": {
+        "book": "shmos",
+        "startVerse": 7,
+        "chapter": 21,
+        "endVerse": 11
+    },
+    "Mishpatim_shlishi": {
+        "book": "shmos",
+        "startVerse": 12,
+        "chapter": 21,
+        "endVerse": 19
+    },
+    "Teruma_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 25,
+        "endVerse": 5
+    },
+    "Teruma_sheini": {
+        "book": "shmos",
+        "startVerse": 6,
+        "chapter": 25,
+        "endVerse": 9
+    },
+    "Teruma_shlishi": {
+        "book": "shmos",
+        "startVerse": 10,
+        "chapter": 25,
+        "endVerse": 16
+    },
+    "Tetzaveh_rishon_one": {
+        "book": "shmos",
+        "chapter": 27,
+        "startVerse": 20
+    },
+    "Tetzaveh_rishon_two": {
+        "book": "shmos",
+        "endVerse": 5,
+        "chapter": 28
+    },
+    "Tetzaveh_sheini": {
+        "book": "shmos",
+        "startVerse": 6,
+        "chapter": 28,
+        "endVerse": 9
+    },
+    "Tetzaveh_shlishi": {
+        "book": "shmos",
+        "startVerse": 10,
+        "chapter": 28,
+        "endVerse": 12
+    },
+    "KiSisa_rishon": {
+        "book": "shmos",
+        "startVerse": 11,
+        "chapter": 30,
+        "endVerse": 13
+    },
+    "KiSisa_sheini": {
+        "book": "shmos",
+        "startVerse": 14,
+        "chapter": 30,
+        "endVerse": 16
+    },
+    "KiSisa_shlishi": {
+        "book": "shmos",
+        "startVerse": 17,
+        "chapter": 30,
+        "endVerse": 21
+    },
+    "VaYakhel_rishon": {
+        "book": "shmos",
+        "startVerse": 1,
+        "chapter": 35,
+        "endVerse": 3
+    },
+    "VaYakhel_sheini": {
+        "book": "shmos",
+        "startVerse": 4,
+        "chapter": 35,
+        "endVerse": 10
+    },
+    "VaYakhel_shlishi": {
+        "book": "shmos",
+        "startVerse": 11,
+        "chapter": 35,
+        "endVerse": 20
+    },
+    "Pekudei_rishon": {
+        "book": "shmos",
+        "startVerse": 21,
+        "chapter": 38,
+        "endVerse": 23
+    },
+    "Pekudei_sheini": {
+        "book": "shmos",
+        "startVerse": 24,
+        "chapter": 38,
+        "endVerse": 27
+    },
+    "Pekudei_shlishi_one": {
+        "book": "shmos",
+        "chapter": 38,
+        "startVerse": 28
+    },
+    "Pekudei_shlishi_two": {
+        "book": "shmos",
+        "endVerse": 1,
+        "chapter": 39
+    },
+    "Vayikra_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 1,
+        "endVerse": 4
+    },
+    "Vayikra_sheini": {
+        "book": "vayikra",
+        "startVerse": 5,
+        "chapter": 1,
+        "endVerse": 9
+    },
+    "Vayikra_shlishi": {
+        "book": "vayikra",
+        "startVerse": 10,
+        "chapter": 1,
+        "endVerse": 13
+    },
+    "Tzav_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 6,
+        "endVerse": 3
+    },
+    "Tzav_sheini": {
+        "book": "vayikra",
+        "startVerse": 4,
+        "chapter": 6,
+        "endVerse": 6
+    },
+    "Tzav_shlishi": {
+        "book": "vayikra",
+        "startVerse": 7,
+        "chapter": 6,
+        "endVerse": 11
+    },
+    "Shmini_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 9,
+        "endVerse": 6
+    },
+    "Shmini_sheini": {
+        "book": "vayikra",
+        "startVerse": 7,
+        "chapter": 9,
+        "endVerse": 10
+    },
+    "Shmini_shlishi": {
+        "book": "vayikra",
+        "startVerse": 11,
+        "chapter": 9,
+        "endVerse": 16
+    },
+    "Tazria_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 12,
+        "endVerse": 4
+    },
+    "Tazria_sheini": {
+        "book": "vayikra",
+        "startVerse": 5,
+        "chapter": 12,
+        "endVerse": 8
+    },
+    "Tazria_shlishi": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 13,
+        "endVerse": 5
+    },
+    "Metzora_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 14,
+        "endVerse": 5
+    },
+    "Metzora_sheini": {
+        "book": "vayikra",
+        "startVerse": 6,
+        "chapter": 14,
+        "endVerse": 9
+    },
+    "Metzora_shlishi": {
+        "book": "vayikra",
+        "startVerse": 10,
+        "chapter": 14,
+        "endVerse": 12
+    },
+    "AchreiMos_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 16,
+        "endVerse": 6
+    },
+    "AchreiMos_sheini": {
+        "book": "vayikra",
+        "startVerse": 7,
+        "chapter": 16,
+        "endVerse": 11
+    },
+    "AchreiMos_shlishi": {
+        "book": "vayikra",
+        "startVerse": 12,
+        "chapter": 16,
+        "endVerse": 17
+    },
+    "Kedoshim_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 19,
+        "endVerse": 4
+    },
+    "Kedoshim_sheini": {
+        "book": "vayikra",
+        "startVerse": 5,
+        "chapter": 19,
+        "endVerse": 10
+    },
+    "Kedoshim_shlishi": {
+        "book": "vayikra",
+        "startVerse": 11,
+        "chapter": 19,
+        "endVerse": 14
+    },
+    "Emor_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 21,
+        "endVerse": 6
+    },
+    "Emor_sheini": {
+        "book": "vayikra",
+        "startVerse": 7,
+        "chapter": 21,
+        "endVerse": 12
+    },
+    "Emor_shlishi": {
+        "book": "vayikra",
+        "startVerse": 13,
+        "chapter": 21,
+        "endVerse": 15
+    },
+    "Behar_rishon": {
+        "book": "vayikra",
+        "startVerse": 1,
+        "chapter": 25,
+        "endVerse": 3
+    },
+    "Behar_sheini": {
+        "book": "vayikra",
+        "startVerse": 4,
+        "chapter": 25,
+        "endVerse": 7
+    },
+    "Behar_shlishi": {
+        "book": "vayikra",
+        "startVerse": 8,
+        "chapter": 25,
+        "endVerse": 13
+    },
+    "Bechukosai_rishon": {
+        "book": "vayikra",
+        "startVerse": 3,
+        "chapter": 26,
+        "endVerse": 5
+    },
+    "Bechukosai_sheini": {
+        "book": "vayikra",
+        "startVerse": 6,
+        "chapter": 26,
+        "endVerse": 9
+    },
+    "Bechukosai_shlishi": {
+        "book": "vayikra",
+        "startVerse": 10,
+        "chapter": 26,
+        "endVerse": 13
+    },
+    "Bamidbar_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 1,
+        "endVerse": 4
+    },
+    "Bamidbar_sheini": {
+        "book": "bamidbar",
+        "startVerse": 5,
+        "chapter": 1,
+        "endVerse": 16
+    },
+    "Bamidbar_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 17,
+        "chapter": 1,
+        "endVerse": 19
+    },
+    "Nasso_rishon": {
+        "book": "bamidbar",
+        "startVerse": 21,
+        "chapter": 4,
+        "endVerse": 24
+    },
+    "Nasso_sheini": {
+        "book": "bamidbar",
+        "startVerse": 25,
+        "chapter": 4,
+        "endVerse": 28
+    },
+    "Nasso_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 29,
+        "chapter": 4,
+        "endVerse": 37
+    },
+    "Behaloscha_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 8,
+        "endVerse": 4
+    },
+    "Behaloscha_sheini": {
+        "book": "bamidbar",
+        "startVerse": 5,
+        "chapter": 8,
+        "endVerse": 9
+    },
+    "Behaloscha_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 10,
+        "chapter": 8,
+        "endVerse": 14
+    },
+    "Shlach_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 13,
+        "endVerse": 3
+    },
+    "Shlach_sheini": {
+        "book": "bamidbar",
+        "startVerse": 4,
+        "chapter": 13,
+        "endVerse": 16
+    },
+    "Shlach_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 17,
+        "chapter": 13,
+        "endVerse": 20
+    },
+    "Korach_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 16,
+        "endVerse": 3
+    },
+    "Korach_sheini": {
+        "book": "bamidbar",
+        "startVerse": 4,
+        "chapter": 16,
+        "endVerse": 7
+    },
+    "Korach_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 8,
+        "chapter": 16,
+        "endVerse": 13
+    },
+    "Chukas_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 19,
+        "endVerse": 6
+    },
+    "Chukas_sheini": {
+        "book": "bamidbar",
+        "startVerse": 7,
+        "chapter": 19,
+        "endVerse": 9
+    },
+    "Chukas_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 10,
+        "chapter": 19,
+        "endVerse": 17
+    },
+    "Balak_rishon": {
+        "book": "bamidbar",
+        "startVerse": 2,
+        "chapter": 22,
+        "endVerse": 4
+    },
+    "Balak_sheini": {
+        "book": "bamidbar",
+        "startVerse": 5,
+        "chapter": 22,
+        "endVerse": 7
+    },
+    "Balak_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 8,
+        "chapter": 22,
+        "endVerse": 12
+    },
+    "Pinchas_rishon": {
+        "book": "bamidbar",
+        "startVerse": 10,
+        "chapter": 25,
+        "endVerse": 12
+    },
+    "Pinchas_sheini": {
+        "book": "bamidbar",
+        "startVerse": 13,
+        "chapter": 25,
+        "endVerse": 15
+    },
+    "Pinchas_shlishi_one": {
+        "book": "bamidbar",
+        "chapter": 25,
+        "startVerse": 16
+    },
+    "Pinchas_shlishi_two": {
+        "book": "bamidbar",
+        "endVerse": 4,
+        "chapter": 26
+    },
+    "Matos_rishon": {
+        "book": "bamidbar",
+        "startVerse": 2,
+        "chapter": 30,
+        "endVerse": 9
+    },
+    "Matos_sheini": {
+        "book": "bamidbar",
+        "startVerse": 10,
+        "chapter": 30,
+        "endVerse": 13
+    },
+    "Matos_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 14,
+        "chapter": 30,
+        "endVerse": 17
+    },
+    "Masei_rishon": {
+        "book": "bamidbar",
+        "startVerse": 1,
+        "chapter": 33,
+        "endVerse": 3
+    },
+    "Masei_sheini": {
+        "book": "bamidbar",
+        "startVerse": 4,
+        "chapter": 33,
+        "endVerse": 6
+    },
+    "Masei_shlishi": {
+        "book": "bamidbar",
+        "startVerse": 7,
+        "chapter": 33,
+        "endVerse": 10
+    },
+    "Dvarim_rishon": {
+        "book": "dvarim",
+        "startVerse": 1,
+        "chapter": 1,
+        "endVerse": 3
+    },
+    "Dvarim_sheini": {
+        "book": "dvarim",
+        "startVerse": 4,
+        "chapter": 1,
+        "endVerse": 7
+    },
+    "Dvarim_shlishi": {
+        "book": "dvarim",
+        "startVerse": 8,
+        "chapter": 1,
+        "endVerse": 11
+    },
+    "Veschanan_rishon": {
+        "book": "dvarim",
+        "startVerse": 23,
+        "chapter": 3,
+        "endVerse": 25
+    },
+    "Veschanan_sheini_one": {
+        "book": "dvarim",
+        "chapter": 3,
+        "startVerse": 26
+    },
+    "Veschanan_sheini_two": {
+        "book": "dvarim",
+        "endVerse": 4,
+        "chapter": 27
+    },
+    "Veschanan_shlishi": {
+        "book": "dvarim",
+        "startVerse": 5,
+        "chapter": 27,
+        "endVerse": 8
+    },
+    "Eikev_rishon": {
+        "book": "dvarim",
+        "startVerse": 12,
+        "chapter": 7,
+        "endVerse": 21
+    },
+    "Eikev_sheini_one": {
+        "book": "dvarim",
+        "chapter": 7,
+        "startVerse": 22
+    },
+    "Eikev_sheini_two": {
+        "book": "dvarim",
+        "endVerse": 3,
+        "chapter": 8
+    },
+    "Eikev_shlishi": {
+        "book": "dvarim",
+        "startVerse": 4,
+        "chapter": 8,
+        "endVerse": 10
+    },
+    "Reeh_rishon": {
+        "book": "dvarim",
+        "startVerse": 26,
+        "chapter": 11,
+        "endVerse": 31
+    },
+    "Reeh_sheini_one": {
+        "book": "dvarim",
+        "chapter": 11,
+        "startVerse": 32
+    },
+    "Reeh_sheini_two": {
+        "book": "dvarim",
+        "endVerse": 5,
+        "chapter": 12
+    },
+    "Reeh_shlishi": {
+        "book": "dvarim",
+        "startVerse": 6,
+        "chapter": 12,
+        "endVerse": 10
+    },
+    "Shoftim_rishon": {
+        "book": "dvarim",
+        "startVerse": 18,
+        "chapter": 16,
+        "endVerse": 20
+    },
+    "Shoftim_sheini_one": {
+        "book": "dvarim",
+        "chapter": 16,
+        "startVerse": 21
+    },
+    "Shoftim_sheini_two": {
+        "book": "dvarim",
+        "endVerse": 10,
+        "chapter": 17
+    },
+    "Shoftim_shlishi": {
+        "book": "dvarim",
+        "startVerse": 11,
+        "chapter": 17,
+        "endVerse": 13
+    },
+    "KiSeitzei_rishon": {
+        "book": "dvarim",
+        "startVerse": 10,
+        "chapter": 21,
+        "endVerse": 14
+    },
+    "KiSeitzei_sheini": {
+        "book": "dvarim",
+        "startVerse": 15,
+        "chapter": 21,
+        "endVerse": 17
+    },
+    "KiSeitzei_shlishi": {
+        "book": "dvarim",
+        "startVerse": 18,
+        "chapter": 21,
+        "endVerse": 21
+    },
+    "KiSavo_rishon": {
+        "book": "dvarim",
+        "startVerse": 1,
+        "chapter": 26,
+        "endVerse": 3
+    },
+    "KiSavo_sheini": {
+        "book": "dvarim",
+        "startVerse": 4,
+        "chapter": 26,
+        "endVerse": 11
+    },
+    "KiSavo_shlishi": {
+        "book": "dvarim",
+        "startVerse": 12,
+        "chapter": 26,
+        "endVerse": 15
+    },
+    "Nitzavim_rishon": {
+        "book": "dvarim",
+        "startVerse": 9,
+        "chapter": 29,
+        "endVerse": 11
+    },
+    "Nitzavim_sheini": {
+        "book": "dvarim",
+        "startVerse": 12,
+        "chapter": 29,
+        "endVerse": 14
+    },
+    "Nitzavim_shlishi": {
+        "book": "dvarim",
+        "startVerse": 15,
+        "chapter": 29,
+        "endVerse": 28
+    },
+    "Vayelech_rishon": {
+        "book": "dvarim",
+        "startVerse": 1,
+        "chapter": 31,
+        "endVerse": 3
+    },
+    "Vayelech_sheini": {
+        "book": "dvarim",
+        "startVerse": 4,
+        "chapter": 31,
+        "endVerse": 6
+    },
+    "Vayelech_shlishi": {
+        "book": "dvarim",
+        "startVerse": 7,
+        "chapter": 31,
+        "endVerse": 13
+    },
+    "Haazinu_rishon": {
+        "book": "dvarim",
+        "startVerse": 1,
+        "chapter": 32,
+        "endVerse": 3
+    },
+    "Haazinu_sheini": {
+        "book": "dvarim",
+        "startVerse": 4,
+        "chapter": 32,
+        "endVerse": 6
+    },
+    "Haazinu_shlishi": {
+        "book": "dvarim",
+        "startVerse": 7,
+        "chapter": 32,
+        "endVerse": 12
+    },
+    "VezosHaBrocha_rishon": {
+        "book": "dvarim",
+        "startVerse": 1,
+        "chapter": 33,
+        "endVerse": 7
+    },
+    "VezosHaBrocha_sheini": {
+        "book": "dvarim",
+        "startVerse": 8,
+        "chapter": 33,
+        "endVerse": 12
+    },
+    "VezosHaBrocha_shlishi": {
+        "book": "dvarim",
+        "startVerse": 13,
+        "chapter": 33,
+        "endVerse": 17
+    }

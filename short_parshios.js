@@ -1,4 +1,6 @@
-breishis = [
+var exports = module.exports = {};
+
+exports.breishis = [
     {
         parsha: "Breishis",
         aliahs: [
@@ -242,7 +244,7 @@ breishis = [
     }
 ]
 
-shmos = [
+exports.shmos = [
     {
         parsha: "Shmos",
         aliahs: [
@@ -467,7 +469,7 @@ shmos = [
     }
 ]
 
-vayirka = [
+exports.vayirka = [
     {
         parsha: "Vayikra",
         aliahs: [
@@ -670,7 +672,7 @@ vayirka = [
     }
 ]
 
-bamidbar = [
+exports.bamidbar = [
     {
         parsha: "Bamidbar",
         aliahs: [
@@ -874,7 +876,7 @@ bamidbar = [
     }
 ];
 
-devarim = [
+exports.devarim = [
     {
         parsha: "Dvarim",
         aliahs: [
@@ -1101,3 +1103,25 @@ devarim = [
     }
 ]
 
+exports.chumashim = [
+    'breishis',
+    'shmos',
+    'vayirka',
+    'bamidbar',
+    'devarim'
+];
+
+exports.bookDictionary = {
+    breishis: 'breishis',
+    shmos: 'shmos',
+    vayirka: 'vayikra',
+    bamidbar: 'bamidbar',
+    devarim: 'dvarim'
+}
+
+exports.chumash =[];
+exports.chumash= exports.chumash.concat(exports.breishis);
+exports.chumash= exports.chumash.concat(exports.shmos);
+exports.chumash= exports.chumash.concat(exports.vayirka);
+exports.chumash= exports.chumash.concat(exports.bamidbar);
+exports.chumash= exports.chumash.concat(exports.devarim);
